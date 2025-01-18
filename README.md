@@ -1,1 +1,1 @@
-# HundredQuestionDSA_series
+# HundredQuestionDSA_ser
